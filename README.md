@@ -206,16 +206,8 @@ The project focuses on the following analytical areas:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
-```text
-Amazon-Prime-EDA/
-│
-├── notebook/
-│   └── Amazon_Prime_EDA.ipynb
-│
-├── data/
-│   ├── amazon_prime_titles.csv
-│   └── credits.csv
-│
-└── README.md
+- `notebook/` — Contains the Amazon Prime EDA Jupyter Notebook
+- `data/` — Contains the datasets used for analysis
+- `README.md` — Project documentation
